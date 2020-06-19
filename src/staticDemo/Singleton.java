@@ -2,7 +2,7 @@ package staticDemo;
 import static java.lang.Math.max;
 
 /**
- * @author zhoupan
+ * @author zhoupan0402
  */
 public class Singleton {
     private static Singleton instance;
